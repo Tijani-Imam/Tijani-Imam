@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Tijani Imam — Blue Team Security Portfolio
+# 🛡️ Tijani Garba Imam — Blue Team Security Portfolio
 
 **Defensive Security | SOC Analysis | Threat Detection | Incident Response**
 
@@ -29,22 +29,15 @@
 
 ### SIEM & Log Analysis
 ![Seceon](https://img.shields.io/badge/Seceon-1A73E8?style=flat&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat&logo=elastic&logoColor=white)
-
-### Cloud & Infrastructure
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 
 ### Network & Traffic Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ### Threat Intelligence & Detection
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat&logoColor=white)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat&logo=virustotal&logoColor=white)
 
 ### Scripting & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ---
 
@@ -66,12 +59,9 @@
 
 | Certification | Issuer | Status | Year |
 |---------------|--------|--------|------|
-| Seceon SIEM Certification | Seceon | ✅ Completed | 2025 |
-| Oracle Cloud Infrastructure AI Foundations Associate | Oracle | ✅ Completed | 2025 |
-| Oracle Cloud Infrastructure Multicloud Architect Professional | Oracle | ✅ Completed | 2025 |
-| Oracle Cloud Infrastructure Networking Professional (1Z0-1124-25) | Oracle | ✅ Completed | 2025 |
-| Introduction to Cybersecurity | Cisco NetAcad | ✅ Completed | 2024 |
-| Networking Basics | Cisco NetAcad | ✅ Completed | 2024 |
+| Seceon SIEM Certification | Seceon | ✅ Completed | 2026 |
+| Introduction to Cybersecurity | Cisco NetAcad | ✅ Completed | 2026 |
+| Networking Basics | Cisco NetAcad | ✅ Completed | 2026 |
 | Google Cybersecurity Certificate | Coursera / Google | 📅 Planned | 2026 |
 | CompTIA Security+ | CompTIA | 📅 Planned | 2026 |
 | BTL1 — Blue Team Level 1 | Security Blue Team | 📅 Planned | 2026 |
@@ -93,7 +83,6 @@ My background in network engineering and cybersecurity consulting directly suppo
 | Client Security Report Writing | Incident reports, executive security briefings |
 | Network Engineering Background | Network traffic analysis, understanding attack surfaces |
 | Seceon SIEM Experience | Log analysis, event correlation, threat monitoring |
-| Oracle Cloud Infrastructure | Cloud security awareness, multicloud architecture |
 
 ---
 
